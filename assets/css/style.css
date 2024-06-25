@@ -1847,7 +1847,11 @@ a:focus {
     width: 100%;
     transition: .3s;
 }
-
+.portfolio-item img {
+    height: 350px !important;
+    width: 100% !important;
+    object-fit: cover;
+}
 .portfolio .portfolio-item:hover img {
     transform: scale(1.1);
 }
