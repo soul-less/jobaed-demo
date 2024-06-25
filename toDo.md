@@ -1,4 +1,4 @@
-* Página Inicial:
+# Página Inicial:
     * Slideshow
     * quem somos (breve)
     * Serviços
@@ -6,12 +6,12 @@
     * FAQ
     * Testemunho
 
-* Quem Somos:
+# Quem Somos:
     # Descrição x
     * Missão, Visão e Valor
     * Equipa
 
-* Projectos:
+# Projectos:
     * Galeria de Imagens
 
 # Contactos:
